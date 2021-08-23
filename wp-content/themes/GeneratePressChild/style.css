@@ -12,4 +12,158 @@ Text Domain:  GeneratePressChild
 
 /* Écrivez ici votre propre feuille de style personnelle */
 
- 
+ body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #F6f9fd;
+    font-family: calibri;
+}
+
+ .one-container .site-content {
+    padding: 0;
+}
+.entry-header, .site-content {
+    word-wrap: break-word;
+    background: #f6f9fd;
+}
+
+element.style {
+}
+.grid-container {
+    max-width: 2000px;
+}
+.grid-container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+}
+.inside-header {
+    display: flex;
+    align-items: center;
+    background: #f6f9fd;
+}
+.main-navigation .main-nav ul li a {
+    padding-left: 20px;
+    padding-right: 20px;
+    line-height: 60px;
+    background: #f6f9fd;
+}
+.main-navigation .main-nav ul li[class*="current-menu-"] > a {
+    color: #7a8896;
+    background-color: #f6f9fd;
+}
+carousel.top_right {
+    position: relative;
+    padding: 90px;
+}
+
+.wpadminbar {
+	background-position:top center;
+}
+.current-menu- {
+	color:black;
+}
+
+button, html input[type="button"], input[type="reset"], input[type="submit"], a.button, a.wp-block-button__link:not(.has-background) {
+    color: #ffffff;
+    background-color: #2075AD;
+	
+	padding-left: 10px;
+	padding: 4px 26px;
+}
+.has-text-align-left{
+padding-left: 40px;
+}
+
+
+.main-navigation .main-nav ul li a {
+    padding-left: 0px;
+    padding-right: 20px;
+    line-height: 60px;
+    background: #f6f9fd;
+}
+:root {
+    --swiper-navigation-size: 44px;
+    padding-left: 60px;
+    padding-right: 60px;
+    background-color: #f6f9fd;
+}
+
+#logo-carousel-free-167.sp-lc-container .sp-logo-carousel{
+	background-color: #FFF;
+}
+
+input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type="tel"], input[type="number"], textarea, select {
+    color: #666666;
+    border-color: #cccccc;
+}
+input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=url], select, textarea {
+    border: 1px solid;
+    border-radius: 0;
+    padding: 10px 15px;
+    max-width: 100%;
+    border-left-width: 10px;
+    border-left-color: #2075AD;
+}
+input[type="submit" i] {
+    overflow: visible;
+    position: relative;
+    float: left;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+    height: 40px;
+    width: 140px;
+	font: 12px/10px 'Montserrat', 'trebuchet MS', 'Tahoma';
+    /*font-size: 1rem;*/
+    color: #f7f7f7;
+    /*text-transform: uppercase;*/
+    background: #2075AD;
+    border-radius: 40px;
+    text-shadow: 0 -1px 0 rgba(0, 0 ,0, .3);
+}
+
+.main-navigation .main-nav ul li a {
+	color: #000;
+	font-style: bold;
+	
+}
+
+.main-navigation .main-nav ul li[class*="current-menu-"] > a {
+    color: #000;
+    background-color: #f6f9fd;
+	 line-height: 1.5px;
+     font: 14px/10px 'Montserrat', 'trebuchet MS', 'Tahoma';
+	font-weight: bolder;
+    padding: 12px 24px;
+    
+   
+}
+.main-navigation .main-nav ul li a, .menu-toggle, .main-navigation .menu-bar-items {
+    color: #000;
+     line-height: 1.5px;
+     font: 14px/10px 'Montserrat', 'trebuchet MS', 'Tahoma';
+	font-weight: bolder;
+    padding: 12px 10px;
+    
+}
+
+.nav-float-right #site-navigation {
+    margin-left: 200px;
+}
+
+
+.site-info {
+    color: #102131;
+    background-color: #f6f9fd;
+    text-align: center;
+}
+.footer-widgets {
+    background-color: #f6f9fd;
+}
+.grid-container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+    background-color: #f6f9fd;
+}
